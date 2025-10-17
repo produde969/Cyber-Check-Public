@@ -2,15 +2,19 @@
 
 How to run application:
 
-Ensure you have Xcode installed on your device.
-Click on the green clone button
-When clicked, select the option "Open with Xcode"
-Follow remaining choices by cloning onto your personal computer and saving to your device
-You should now be able to access the code
-Make sure you can see all of the files that are used to code the app
-Click on the Tab that has the Apple App Store Icon on it
-On the new tab that pops up, click on the info tab
-Look down until you see GEMINI_API_KEY
-Enter your gemini api key here, make sure it is a 2.5 flash model
-Click the run button, if you have already clicked it, stop the code and click the run button again. Run is in the top left corner
-Enjoy the App!!!
+1. Ensure you have Xcode installed on your device.
+2. Click on the green clone button
+3. When clicked, in the dropped down menu, select "download ZIP"
+4. Open your zip file and save in location of your choice
+5. open the file that you have unzipped
+6. Go into the file named "Cyber Check Public"
+7. Double click on the file called that ends in .xcodeproj
+8. You should now be able to access the code
+9. Make sure you can see all of the files that are used to code the app
+10. Click on the Tab that has the Apple App Store Icon on it
+11. On the new tab that pops up, click on the info tab
+12. Look down until you see GEMINI_API_KEY
+13. Enter your gemini api key here, make sure it is a 2.5 flash model
+14. Click the run button, if you have already clicked it, stop the code and click the run button again. Run is in the top left corner
+
+#Enjoy the App!!!
