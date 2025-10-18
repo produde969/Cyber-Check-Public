@@ -1475,14 +1475,7 @@ struct PasswordStorageView: View {
                 AddEditPasswordView(password: $selectedPassword)
                     .environmentObject(passwordStorage)
             }
-            .onAppear {
-                if passwordStorage.hasMasterPassword() {
-                    isUnlocked = false
-                } else {
-                    isUnlocked = false
-                    masterPasswordSetup = false
-                }
-            }
+            
             .navigationBarBackButtonHidden(true)
         }
     }
